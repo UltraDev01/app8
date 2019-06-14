@@ -529,13 +529,14 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 1;
 }
 .fh5co-portfolio .portfolio-entry {
-  width: 100%;
+  width: 80%;
   float: left;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
   height: 300px;
+  margin: 10%;
 }
 @media screen and (max-width: 768px) {
   .fh5co-portfolio .portfolio-entry {
